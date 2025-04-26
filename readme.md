@@ -14,6 +14,6 @@ java Hello    //prints output
 Then save, commit, and push:
 
 ```bash
-git add README.md
+git add .
 git commit -m "Add README with project details"
 git push -u origin main
